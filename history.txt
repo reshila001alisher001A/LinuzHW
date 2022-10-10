@@ -1,0 +1,88 @@
+   0 whoami
+   1 cd
+   2 cd ..
+   3 cd
+   4 cd ..
+   5 ls
+   6 cd
+   7 ls
+   8 mkdir /dogs/cats/fish
+   9 mkdir/dogs/cats/fish
+  10 mkdir -p/dogs/cats/fish
+  11 ls
+  12 mkdir -p/home/dogs/cats/fish
+  13 ls
+  14 touch -p/home/dogs/cats/fish
+  15 touch-p/home/dogs/cats/fish
+  16 cd
+  17 cd /bi
+  18 ls
+  19 cd /bin/
+  20 pwd
+  21 ls
+  22 cd
+  23 clear
+  24 ls --help
+  25 clear
+  26 histori
+  27 history
+  28 ls
+  29 ls -a
+  30 ls -l
+  31 ls -la
+  32 cp --help
+  33 clear
+  34 cd /
+  35 ls
+  36 cd /home/
+  37 ls
+  38 ls -a
+  39 mkadir dog/cats/fish
+  40 mkadir -pdog/cats/fish
+  41 mkadir -p/dog/cats/fish
+  42 mkadir -p /dog/cats/fish
+  43 mkadir -p dog/cats/fish
+  44 mkadir dog
+  45 madir -p /dog/cats/fish
+  46 madir -p/dog/cats/fish
+  47 madir dog/cats
+  48 mkdir -p /dog/cats/fish
+  49 ls
+  50 cd
+  51 ls
+  52 cd
+  53 cd /home/
+  54 ls
+  55 mkdir dog
+  56 ls
+  57 mkdir cats
+  58 mcdir fish
+  59 ls
+  60 mkdir fish
+  61 ls
+  62 history
+  63 ls
+  64 cd dog/
+  65 cd dog/ 
+  66 mkdir pluto
+  67 ls
+  68 cd
+  69 cd home
+  70 cd home/
+  71 cd /home/
+  72 ls
+  73 cd /cats/
+  74 cd cats/
+  75 mkdir garfield
+  76 ls
+  77 cd ..
+  78 ls
+  79 ls --help
+  80 cd
+  81 cd /tmp/
+  82 touch evA
+  83 ls
+  84 cd
+  85 history
+  86 tree /home/
+  87 history > history.txt
